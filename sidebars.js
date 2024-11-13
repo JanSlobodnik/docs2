@@ -62,6 +62,15 @@ module.exports = {
       items: [
         {
           type: 'category',
+          label: 'Protokit',
+          link: {
+            type: 'doc',
+            id: 'zkapps/protokit/protokit',
+          },
+      },
+      items: [
+        {
+          type: 'category',
           label: 'o1js',
           link: {
             type: 'doc',
